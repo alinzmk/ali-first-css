@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  font-family: 'Waterfall', cursive;
+  font-weight: 300;
+  background: rgb(215, 151, 113);
+  background: -moz-linear-gradient(142deg, rgba(215, 151, 113, 1) 0%, rgba(176, 91, 59, 1) 24%, rgba(117, 52, 34, 1) 100%);
+  background: -webkit-linear-gradient(142deg, rgba(215, 151, 113, 1) 0%, rgba(176, 91, 59, 1) 24%, rgba(117, 52, 34, 1) 100%);
+  background: linear-gradient(142deg, rgba(215, 151, 113, 1) 0%, rgba(176, 91, 59, 1) 24%, rgba(117, 52, 34, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d79771", endColorstr="#753422", GradientType=1);
+}
+
+h1 {
+  font-family: 'Waterfall', cursive;
+  font-size: 7rem;
+  font-weight: 300;
+}
+
+p {
+  font-size: 4rem;
+}

@@ -1,0 +1,177 @@
+body{
+  margin: 0;
+  font-family: sans-serif;
+  position: relative;
+  margin-bottom: 0;
+  font-size: 2rem;
+  color: #BBE1FA;
+  background-color: #1B262C;
+}
+
+.topcon{
+  padding-top: 7rem;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+    margin-bottom: 0rem;
+  text-align: center;
+  position: relative;
+  font-size: 25px;
+  background-color: #1B262C;
+}
+.middlecon{
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+  text-align: center;
+
+}
+.bottomcon{
+  padding-top: 20px;
+  text-align: center;
+  background-color: #0F4C75;
+  line-height: 0;
+  margin-top: 10rem;
+  margin-bottom: 0;
+  font-size: 1.2rem;
+}
+.iinl{
+  display: inline-block;
+  font-size: 1.6rem;
+  margin: 3.5rem auto 3.5rem auto;
+  width: 40%;
+}
+.profile{
+  width: 40%;
+  text-align: center;
+  margin: auto;
+}
+
+.btn{
+  display: block;
+}
+.myskil{
+  margin-top: 70px;
+  margin-bottom: 5rem;
+}
+.ara{
+  width: 50;
+  text-align: center;
+  margin: 10rem 5rem 3rem 5rem;
+  display: inline-block;
+}
+.contact-me{
+  line-height: 0;
+  margin-top: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.cont{
+  margin 0;
+}
+
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 25px;
+}
+h1{
+  font-size: 0.5em;
+  font-family: 'Waterfall', cursive;
+  margin-bottom: 0.5rem;
+  font-weight: 4rem;
+}
+h2{
+  font-family: 'Varela Round', sans-serif;
+  font-size: 3rem;
+  margin: 2rem;
+  font-weight: normal;
+
+}
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.5em;
+    line-height: 0px;
+}
+.skill-row{
+  text-align: left;
+  width: 50%;
+  margin: 50px auto 100px auto;
+}
+.linkss{
+  color: #BBE1FA;
+  margin: 30rem 1rem;
+  text-decoration: none;
+}
+.linkss:hover{
+  color: #1B262C;
+}
+#name{
+  font-size: 15px;
+  padding-bottom: 1rem;
+  margin-bottom: 0;
+}
+#con{
+  font-size: 2rem;
+  margin-bottom: 3.4rem;
+}
+.tavern{
+    margin: 0 auto;
+    font-family: 'Waterfall', cursive;
+    font-size:3rem;
+    font-weight: 300;
+    color: #BBE1FA;
+    display: none;
+}
+.des-img{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.dev-img{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.space2{
+  margin-top: 10px;
+  font-size: 100px;
+}
+.bulut1{
+  position: fixed;
+  right: 10rem;
+}
+.bulut2{
+  position: fixed;
+  left: 200px;
+  top: 400px;
+}
+.btn {
+  display: inline-block;
+  margin: 1.5rem auto;
+  text-align: center;
+  width: 70px;
+  font-family: 'Waterfall', cursive;
+  font-weight: 300;
+  background: #753422;
+  background-image: -webkit-linear-gradient(top, #753422, #B05B3B);
+  background-image: -moz-linear-gradient(top, #753422, #B05B3B);
+  background-image: -ms-linear-gradient(top, #753422, #B05B3B);
+  background-image: -o-linear-gradient(top, #753422, #B05B3B);
+  background-image: linear-gradient(to bottom, #753422, #B05B3B);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  color: #FFEBC9;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #FFEBC9 1px;
+  text-decoration: none;
+}
+
+/* there are two displays one is inline other one is block (strict)
+and inline block is the best
+clear isanti-float only use it in wrap text
+line height satır aralığı
+  #66CCEB
+  #6B0000
+  #CFA338
+*/
